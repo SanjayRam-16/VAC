@@ -77,7 +77,6 @@ ggplot(Df1, aes(x = age, y = bmi, color=bmi)) +
   labs(x="Age", y="BMI", title = "Age and BMI (used jitter to show distribution)")
 
 
-#Bharathwaj065
 
 
 
@@ -106,4 +105,5 @@ ggplot(Df1, aes(x = age, y = bmi, color=bmi)) +
 
 
 
-#Bharathwaj065
+
+
